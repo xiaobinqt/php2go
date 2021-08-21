@@ -1,4 +1,4 @@
-package standard
+package time
 
 import "time"
 
